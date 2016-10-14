@@ -1,0 +1,26 @@
+﻿Menu Code:
+
+Console.WriteLine("What would you like to do?");
+                Console.WriteLine("(Type 1, 2 or 3)");
+                Console.WriteLine();
+                Console.WriteLine("1: Roll Turn\n2: Display Scoreboard\n3: Exit");
+                Console.WriteLine();
+                
+
+                //Validate MenuChoice
+                int menuChoice;
+                string menuChoiceInput;
+                do
+                {
+                    Console.Write("Menu Choice: ");
+                    menuChoiceInput = Console.ReadLine();
+
+                    if (menuChoiceInput != "1" && menuChoiceInput != "2" && menuChoiceInput != "3")
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine("Invalid menu choice. Please try again.");
+                        continue;
+                    }
+                    menuChoice = Convert.ToInt16(menuChoiceInput);
+                    break;
+                } while (true);

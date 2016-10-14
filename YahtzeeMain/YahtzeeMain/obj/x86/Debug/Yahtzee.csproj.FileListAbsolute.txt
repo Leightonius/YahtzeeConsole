@@ -1,0 +1,39 @@
+F:\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.exe.manifest
+F:\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.application
+F:\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.exe
+F:\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.pdb
+F:\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe.manifest
+F:\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.application
+F:\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe
+F:\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.pdb
+C:\Users\lduffin\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.exe.manifest
+C:\Users\lduffin\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.application
+C:\Users\lduffin\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.exe
+C:\Users\lduffin\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.pdb
+C:\Users\lduffin\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lduffin\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe.manifest
+C:\Users\lduffin\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.application
+C:\Users\lduffin\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe
+C:\Users\lduffin\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.pdb
+C:\Users\leigh_000\Documents\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe
+C:\Users\leigh_000\Documents\Dropbox\Programming\C#\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.pdb
+C:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe
+C:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.pdb
+C:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.exe.manifest
+C:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.application
+C:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.exe
+C:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.pdb
+C:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe.manifest
+C:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.application
+C:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.pdb
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.exe.manifest
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.application
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.exe
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\Debug\YahtzeeMain.pdb
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe.manifest
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.application
+D:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.exe
+D:\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug\YahtzeeMain.pdb

@@ -1,0 +1,9 @@
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\x86\Debug On\YahtzeeMain.exe.manifest
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\x86\Debug On\YahtzeeMain.application
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\x86\Debug On\YahtzeeMain.exe
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\bin\x86\Debug On\YahtzeeMain.pdb
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug On\YahtzeeMain.exe.manifest
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug On\YahtzeeMain.application
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug On\YahtzeeMain.exe
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug On\YahtzeeMain.pdb
+C:\Users\leigh\Google Drive\School\Code\YahtzeeMain\YahtzeeMain\obj\x86\Debug On\Yahtzee.csprojResolveAssemblyReference.cache
